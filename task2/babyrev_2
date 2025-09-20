@@ -1,0 +1,5 @@
+1. going through the c code found that the last two letters were given as 'nQ'
+2.then clicking on 'DAT_00102016' and find that key has only 5 letters
+3. and it given that 0x12f in hexa which is 303 as the sum of ascii values of first three letters 
+3. then by picking the letters randomly as the sum of ascii values of 303 i have found the key as 'aamnQ'
+4. the flag is =p3nt35t{0bfusc$t3d_fl4g}

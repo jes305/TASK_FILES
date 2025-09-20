@@ -1,0 +1,5 @@
+ 1.to get the values we need to xor its index values
+ 2.form the local  values the 9 values were in hexa decimal values
+ 3. convert it into hex into decimal  then we need to xor it with the index values 
+ 4. the values found after xoring with index values 
+ key =nice_work
